@@ -1,0 +1,3 @@
+After completing the data cleaning phase, I have exported the cleaned dataframes from Python to CSV files. Each of these dataframes is given a name ending with "_clean" to indicate that the dataset is now clean and ready for further analysis. The next step involves merging all of the cleaned datasets into one consolidated dataset.
+
+To achieve this data integration, I utilized MySQL to combine the content, reaction, and reaction type datasets. The merged dataset is now available and can be viewed in the "Merge_Table.csv" file.
